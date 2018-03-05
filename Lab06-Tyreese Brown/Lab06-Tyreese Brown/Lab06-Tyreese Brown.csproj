@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E3D657BF-74E7-4D5A-8EB7-D4069B5E62F2}</ProjectGuid>
+    <ProjectGuid>{4E1B3ECF-B183-4D7C-95A9-8576BA42067A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lab02_TyreeseBrown</RootNamespace>
-    <AssemblyName>Lab02-TyreeseBrown</AssemblyName>
+    <RootNamespace>Lab06_Tyreese_Brown</RootNamespace>
+    <AssemblyName>Lab06-Tyreese Brown</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
