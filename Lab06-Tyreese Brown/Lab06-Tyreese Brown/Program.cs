@@ -48,6 +48,37 @@ namespace Lab06_Tyreese_Brown
                     Console.WriteLine("It took you this many times to guess the right number: " + i);
                 }
             }
+            //Question 3
+            string item;
+            string allItems;
+            double cost;
+            double totalCost = 0;
+
+            Console.Write("Please enter the next item: ");
+            item = Convert.ToString(Console.ReadLine());
+            allItems = item + "\n";
+            Console.Write("Please enter the item cost: ");
+            cost = Convert.ToDouble(Console.ReadLine());
+            totalCost += cost;
+            Console.Write("Press <enter> to continue, E to end: ");
+            item = Convert.ToString(Console.ReadLine());
+
+            while (item != "E")
+            {
+                if (item != "E")
+                {
+                    Console.Write("Please enter the next item: ");
+                    item = Convert.ToString(Console.ReadLine());
+                    allItems = allItems + item + "\n";
+                    Console.Write("Please enter the item cost: ");
+                    cost = Convert.ToDouble(Console.ReadLine());
+                    totalCost += cost;
+                }
+                Console.Write("Press <enter> to continue, E to end: ");
+                item = Convert.ToString(Console.ReadLine());
+            }
+            Console.WriteLine("\n" + "Grocery Items:" + "\n" + allItems);
+            Console.WriteLine("Total Cost: " + totalCost);
         }
     }
 }
