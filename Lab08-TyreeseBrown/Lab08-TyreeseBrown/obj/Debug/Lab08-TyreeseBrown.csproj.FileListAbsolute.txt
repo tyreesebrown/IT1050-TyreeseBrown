@@ -1,0 +1,6 @@
+c:\users\ty\documents\visual studio 2017\Projects\Lab08-TyreeseBrown\Lab08-TyreeseBrown\bin\Debug\Lab08-TyreeseBrown.exe.config
+c:\users\ty\documents\visual studio 2017\Projects\Lab08-TyreeseBrown\Lab08-TyreeseBrown\bin\Debug\Lab08-TyreeseBrown.exe
+c:\users\ty\documents\visual studio 2017\Projects\Lab08-TyreeseBrown\Lab08-TyreeseBrown\bin\Debug\Lab08-TyreeseBrown.pdb
+c:\users\ty\documents\visual studio 2017\Projects\Lab08-TyreeseBrown\Lab08-TyreeseBrown\obj\Debug\Lab08-TyreeseBrown.csprojResolveAssemblyReference.cache
+c:\users\ty\documents\visual studio 2017\Projects\Lab08-TyreeseBrown\Lab08-TyreeseBrown\obj\Debug\Lab08-TyreeseBrown.exe
+c:\users\ty\documents\visual studio 2017\Projects\Lab08-TyreeseBrown\Lab08-TyreeseBrown\obj\Debug\Lab08-TyreeseBrown.pdb
